@@ -1,16 +1,15 @@
-### Welcome to this Data Dork's GitHub page 👋
+## Hey, I'm Mike. Welcome to my GitHub page 👋
 
-I don't want to bore you right now (especially since I've got some cool code for you to check out), so I'll make this simple...
+I'm currently a data analyst and I like to write about data/tech [here](https://www.mikemckeewrites.com).
 
-I'm a bit of a math wiz, graduating with a math degree from Binghamton University. While there, I studied Python a bit but never pursued it seriously.
+I started learning how to program/code in 2023, around the same time I decided to become a data analyst. But after a few months, I stopped. I'm back now, however, because I want to build things from scratch - like websites, applications, and automation tools.
 
-Now (almost 3 years later), I'm diving back into the language to do some cool coding projects.
+More to come...
+<br />
+<br />
+<br />
 
-**Warning: I only started self-studying Python on June 19th, 2023. So judge my skills based on that.**
-
-Anyway, if you see anything cool here and wanna talk programming, hit me up on my website below:
-
-***[My Dorky Data website](https://www.dorkydata.com/contact-me)***
+*Last Updated 2025-01-06*
 
 <!--
 **Mike-McKee/Mike-McKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
